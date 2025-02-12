@@ -1,2 +1,2 @@
-# calebfasion.github.io
-Caleb's Fashion Store
+# calebfabrics.github.io
+Caleb's Fabric Design
