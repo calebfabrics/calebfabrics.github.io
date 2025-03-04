@@ -103,8 +103,8 @@ nav ul li a {
 }
 
 .thumbnails img {
-    width: 80px;
-    height: auto;
+    width: 100px;
+    height: 100px;
     cursor: pointer;
     border-radius: 5px;
 }
