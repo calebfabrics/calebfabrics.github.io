@@ -128,7 +128,8 @@ nav ul li a {
 
 
 .short-description {
-    font-size: 1.1rem;
+    padding: 10px;
+    font-size: 1rem;
     margin-bottom: 20px;
 }
 /* Product Specifications */
